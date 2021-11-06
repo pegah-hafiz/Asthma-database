@@ -1,0 +1,6 @@
+"Admission_date","Patient_ID","Admission_reason","Specialis_ID","Sign_date","Asthma_register_date","Blood_pressure","Breath_status","Pulse_rate","Discharge_date","Discharge_reason","Discharge_fee","Healthcare_org_name","Healthcare_org_address"
+"2010-08-20","2200710956","Dyspnea","6235","2010-08-20","2010-08-20","","Not normal","","2010-08-21","Got healed","100.0000","Imam reza","Namazi square"
+"2011-10-10","2270884511","Dyspnea","6235","2011-05-11","2011-05-11","6.0","Bradyspasm","1","2011-10-15","Normal breathing","150.0000","Namazi","Namazi square"
+"2012-11-19","4054416789","Dyspnea","75123","2012-11-19","2012-11-19","7.0","Bad","","2012-11-21","Got healed","200.0000","Namazi","Namazi square"
+"2013-04-06","2280441453","Cough","75123","2012-03-20","2012-03-20","","Very bad","","2013-04-07","Dead","100.0000","Imam reza","Namazi square"
+"2013-05-11","2431456778","Chest tightness","75123","2012-12-16","","","not normal","","2014-05-13","Got healed","30.0000","Namazi","Namazi square"

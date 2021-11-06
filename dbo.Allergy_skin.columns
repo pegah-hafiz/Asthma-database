@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"Test_date","STRING","10","0","0"
+"Patient_ID","INTEGER","10","10","0"
+"Laboratory_ID","INTEGER","1","1","0"
+"Specialist_ID","INTEGER","5","5","0"
+"Skin_prick_result","STRING","4","0","0"
+"IM_result","STRING","7","0","0"
+"Patch_test_result","STRING","4","0","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"Specialist_ID","INTEGER","5","5","0"
+"First_name","STRING","6","0","0"
+"Last_name","STRING","10","0","0"
+"Gender","STRING","1","0","0"
+"Clinical_address","STRING","6","0","0"
+"Telephone","INTEGER","8","8","0"

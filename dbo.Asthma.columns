@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"Asthma_register_date","STRING","10","0","0"
+"Asthma_type","STRING","5","0","0"
+"Asthma_ICD_code","STRING","7","3","2"
+"Patient_ID","STRING","10","0","0"

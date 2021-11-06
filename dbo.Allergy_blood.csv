@@ -1,0 +1,4 @@
+"Test_date","Patient_ID","Laboratory_ID","Specialist_ID","RAST_result","QID_result"
+"2010-08-19","2823431190","1","24501","Bad",""
+"2011-04-13","3301554009","1","24501","Bad","Bad"
+"2012-12-10","2431456778","1","87912","Bad","Average"

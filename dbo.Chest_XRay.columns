@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"Test_date","STRING","10","0","0"
+"Patient_ID","INTEGER","10","10","0"
+"Laboratory_ID","INTEGER","1","1","0"
+"Specialist_ID","INTEGER","5","5","0"
+"Result","STRING","7","0","0"

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"Laboratory_ID","INTEGER","1","1","0"
+"Name","STRING","9","0","0"
+"Supervisor_firstName","STRING","6","0","0"
+"Supervisor_lastName","STRING","7","0","0"
+"Supervisor_ID","INTEGER","3","3","0"
+"Address","STRING","13","0","0"
+"Specialty","STRING","19","0","0"

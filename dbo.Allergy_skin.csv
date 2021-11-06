@@ -1,0 +1,4 @@
+"Test_date","Patient_ID","Laboratory_ID","Specialist_ID","Skin_prick_result","IM_result","Patch_test_result"
+"2010-08-18","2823431190","1","24501","High","Middle",""
+"2011-04-14","3301554009","1","24501","High","High","fair"
+"2012-08-14","2200710956","1","75123","Fair","Average","Fair"

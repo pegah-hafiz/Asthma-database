@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"Mother_national_code","INTEGER","10","10","0"
+"First_name","STRING","6","0","0"
+"Last_name","STRING","7","0","0"
+"Address","STRING","10","0","0"
+"Citizenship","STRING","8","0","0"
+"Smoke_preg","INTEGER","1","1","0"
+"Asthma_register_date","STRING","10","0","0"
